@@ -53,4 +53,4 @@
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 ---
-<img align="left" alt="RichardsonJean's GitHub Stats" src="https://github-readme-stats.RichardsonJean.vercel.app/api?username=RichardsonJean&show_icons=true&hide_border=true" />
+  <img align="left" alt="RichardsonJean's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RichardsonJean&show_icons=true&hide_border=true" />
