@@ -1,6 +1,6 @@
 ### Hi there, I'm Richardson - aka [RichardsonJean][website] 👋 
 [![Website]()](https://RichardsonJean.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/RichardsonJean?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=RichardsonJean)
+[![Twitter Follow](https://img.shields.io/twitter/follow/RichardsonJean?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRichardsonJean&screen_name=RichardsonJean)
 ## I'm a Husband, Father, Developer, Former Math Teacher, and Student!
 - 👯 I am currently a student at Broward College
 - 🌱 I amm currently learning PHP
@@ -36,7 +36,12 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-
+- [STACKr News Weekly: Quit to build a Game Studio, 10 Ways - better Developer, Move to a boring city!](https://www.youtube.com/watch?v=R_XwamGcCBQ)
+- [STACKr News Weekly: We Like Dislikes 😍, No coding tech roles 👨‍💻, Quantum attacks Crypto 🚨](https://www.youtube.com/watch?v=ByzuWuziB2A)
+- [STACKr News Weekly: Learn to code FAST ⚡, Choose a DB in 9.49 min ⌛, BEST Blog app with React ⚛](https://www.youtube.com/watch?v=KZGzo0bkiLY)
+- [Top VS Code Updates | v1.62 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=JENei5X1vzs)
+- [STACKr News Weekly: What is DevOps? 🤔 Next.js 12 💪, Mr. Beast Collab! 🌊](https://www.youtube.com/watch?v=Rt6vtIxiJ4k)
+- [API Crash Course - Integrate, Build, &amp; Sell an API $$$ &lpar;EASY!&rpar;](https://www.youtube.com/watch?v=FMJwaA2WMjc)
 <!-- YOUTUBE:END -->
 ---
 ### 📕 Latest Blog Post
