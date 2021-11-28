@@ -34,7 +34,7 @@
 <br />
 <br />
 ---
-### 📕 Latest Blog Posts
+### 📕 Latest Skills
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->

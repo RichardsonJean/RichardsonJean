@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "Skills"
-          feed_list: "https://RichardsonJean.com"
+          feed_list: "https://https://dev.to/codestackr"
