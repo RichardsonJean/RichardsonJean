@@ -1,6 +1,6 @@
 ### Hi there, I'm Richardson - aka [RichardsonJean][website] 👋 
 [![Website]()](https://RichardsonJean.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=RichardsonJean)
+[![Twitter Follow](https://img.shields.io/twitter/follow/RichardsonJean?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=RichardsonJean)
 ## I'm a Husband, Father, Developer, Former Math Teacher, and Student!
 - 👯 I am currently a student at Broward College
 - 🌱 I amm currently learning PHP
