@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "Youtube"
-          feed_list: "https://https://dev.to/codestackr"
+          feed_list: "/"
