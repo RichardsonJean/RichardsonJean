@@ -52,7 +52,7 @@
   <img align="left" alt="RichardsonJean's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RichardsonJean&show_icons=true&hide_border=true" />-->
 
   <h1 align="center">Hi 👋, I'm Richardson</h1>
-<h3 align="center">A passionate fullstack developer from USA</h3>
+<h3 align="center">A passionate full-Stack developer from USA</h3>
 
 <p align="left"> <a href="https://twitter.com/jean_jean104" target="blank"><img src="https://img.shields.io/twitter/follow/jean_jean104?logo=twitter&style=for-the-badge" alt="jean_jean104" /></a> </p>
 
