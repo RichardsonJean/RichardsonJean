@@ -57,8 +57,6 @@
 <!--<p align="left"> <a href="https://twitter.com/jean_jean104" target="blank"><img src="https://img.shields.io/twitter/follow/jean_jean104?logo=twitter&style=for-the-badge" alt="jean_jean104" /></a> </p>-->
 [![Twitter Follow](https://img.shields.io/twitter/follow/jean_jean104?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRichardsonJean&screen_name=RichardsonJean)
 
-[![LinkedIn Follow](https://img.shields.io/linkedIn/follow/jean_jean104?color=1DA1F2&logo=linkedIn&style=for-the-badge)](https://linkedIn.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRichardsonJean&screen_name=RichardsonJean)
-
 - 🌱 I’m currently learning about **API**
 
 - 👯 I’m looking to collaborate with **other developers**
@@ -87,3 +85,6 @@
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richardsonjean&show_icons=true&locale=en&layout=compact" alt="richardsonjean" /></p>-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richardsonjean&count_private=true&hide=stars,prs&show_icons=true&theme=dark" alt="richardsonjean" /></p>
+
+---
+<!--START_SECTION:activity-->
