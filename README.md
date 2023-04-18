@@ -61,7 +61,7 @@
 
 - 👯 I’m looking to collaborate with **other developers**
 
-- 📫 How to reach me **[email](richardson.jean104@gmail.com)**
+- 📫 How to reach me **richardson.jean104@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/richardson-jean-70335a136/)
 
