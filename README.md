@@ -4,7 +4,7 @@
 - 👯 I am currently a student at Broward College
 - 🌱 I am currently learning almost everything
 - 👯 I am looking to collaborate with other developers
-- 🥅 2022 Goals: Start contributing to Open Source projects
+- 🥅 2023 Goals: Start contributing to Open Source projects
 - ⚡ Fun fact: I love to listen to music
 ### Connect with me:
 [<img align="left" alt="RicahardsonJean.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://github.com/RichardsonJean/RichardsonJean)
@@ -57,13 +57,13 @@
 <!--<p align="left"> <a href="https://twitter.com/jean_jean104" target="blank"><img src="https://img.shields.io/twitter/follow/jean_jean104?logo=twitter&style=for-the-badge" alt="jean_jean104" /></a> </p>-->
 [![Twitter Follow](https://img.shields.io/twitter/follow/jean_jean104?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRichardsonJean&screen_name=RichardsonJean)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning about **API**
 
 - 👯 I’m looking to collaborate with **other developers**
 
 - 📫 How to reach me **richardson.jean104@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/richardson-jean-70335a136/](https://www.linkedin.com/in/richardson-jean-70335a136/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/richardson-jean-70335a136/)
 
 - ⚡ Fun fact **I love music**
 
