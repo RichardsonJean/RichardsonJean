@@ -51,7 +51,7 @@
 <!-- ---
   <img align="left" alt="RichardsonJean's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RichardsonJean&show_icons=true&hide_border=true" />-->
 
-  <h1 align="center">Hi 👋<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave image">, I'm Richardson</h1>
+  <h1 align="center">Hi 👋<img width="200px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave image">, I'm Richardson</h1>
 <h3 align="center">A passionate full-Stack developer from USA</h3>
 
 <!--<p align="left"> <a href="https://twitter.com/jean_jean104" target="blank"><img src="https://img.shields.io/twitter/follow/jean_jean104?logo=twitter&style=for-the-badge" alt="jean_jean104" /></a> </p>-->
