@@ -87,5 +87,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richardsonjean&count_private=true&hide=stars,prs&show_icons=true&theme=dark" alt="richardsonjean" /></p>
 
 ---
-<h1>⚡ Recent Activity</h1>
+<!-- <h1>⚡ Recent Activity</h1> -->
 <!--START_SECTION:activity-->
